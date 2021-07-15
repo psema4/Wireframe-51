@@ -1,0 +1,20 @@
+/* index.css */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #030303;
+    text-align: center;
+}
+
+canvas {
+    width: 600px;
+    height: 800px;
+}
+
+#spritedata {
+    display: none;
+}
