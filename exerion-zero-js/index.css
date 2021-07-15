@@ -18,3 +18,25 @@ canvas {
 #spritedata {
     display: none;
 }
+
+a, a:active, a:visited {
+    color: #33f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #55f;
+    text-decoration: underline;
+}
+
+a#article {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+a#source {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
